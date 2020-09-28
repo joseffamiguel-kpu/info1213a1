@@ -1,0 +1,34 @@
+/******** TAG SELECTORS********/
+body {
+  background-color: #F8F3E6;
+  font: arial;
+}
+
+h1 {
+  color: #8B7860;
+}
+
+h3 {
+  color: #8B7860;
+}
+
+h4 {
+  color: #8B7860;
+}
+
+a {
+  color: #8B7860;
+}
+hr {
+  border-style: none;
+  border-top-style: dashed;
+  border-color: white;
+  border-width: 5px;
+  width: 5%;
+}
+
+/******** CLASS SELECTORS********/
+.gallery {
+  width: 160px;
+  height: 160px;
+}
